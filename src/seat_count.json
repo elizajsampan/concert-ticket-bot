@@ -1,0 +1,11 @@
+{
+    "seat_count": [
+    {
+        "vip": 5,
+        "patron": 10,
+        "upper box": 15,
+        "lower box": 20,
+        "gen ad": 30
+    }
+    ]
+}

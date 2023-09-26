@@ -1,0 +1,9 @@
+{
+    "seat_types": [
+        "vip", 
+        "patron", 
+        "upper box", 
+        "lower box", 
+        "gen ad"
+    ]
+}
